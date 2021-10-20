@@ -224,7 +224,7 @@ def csv_out(data_dict, file_name):
         # ex: dict = { 
         #       state: {demo: value }... 
         #       }
-    #pass
+  
 
 
 def max_min_mutate(data_dict, col_list):
@@ -305,8 +305,6 @@ def max_min(data_dict):
     
     # printing and returning the data
     #print(max_min)
-
-    #pass
     return(max_min)
 
 
